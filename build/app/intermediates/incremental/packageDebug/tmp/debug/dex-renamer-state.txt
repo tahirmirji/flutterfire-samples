@@ -1,0 +1,4 @@
+#Sun May 09 16:59:38 IST 2021
+base.0=F\:\\FLUTTER RESOURCES\\GIT REPO 2021\\flutterfire-samples\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
